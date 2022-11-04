@@ -1,27 +1,26 @@
 #include <stdio.h>
 // Write the function that finds the factorial of the entered number.
-// Girilen sayinin faktoriyelini bulan fonksiyonu yaziniz.
-int faktoriyel(int);
+int factorial(int);
 
 int main(){
 	
-	int sayi;
+	int number;
 	
-	printf("Bir sayi giriniz: ");
-	scanf("%d",&sayi);
+	printf("Enter a number: ");
+	scanf("%d",&number);
 	
-	printf("Girilen sayinin faktoriyeli: %d\n",faktoriyel(sayi));
+	printf("The factorial of the entered number: %d\n",factorial(number));
 	
-	//p5rintf("%d",faktoriyel(5));
+	//printf("%d",factorial(5));
 	
 return 0;	
 }
 
-int faktoriyel(int sayi){
+int factorial(int number){
 	
 		int A,i;
 		A=1;
-		for(i=2;i<=sayi;i++)
+		for(i=2;i<=number;i++)
 		{
 		A=A*i;	
 		}
@@ -29,4 +28,4 @@ int faktoriyel(int sayi){
 	return A;
 }
 
-
+// Girilen sayinin faktoriyelini bulan fonksiyonu yaziniz.
