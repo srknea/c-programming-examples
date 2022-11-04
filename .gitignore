@@ -1,0 +1,5 @@
+# IDE - VSCode
+.vscode/*
+
+# Executables
+*.exe
