@@ -18,14 +18,14 @@ return 0;
 
 int factorial(int number){
 	
-		int A,i;
-		A=1;
-		for(i=2;i<=number;i++)
-		{
-		A=A*i;	
-		}
+	int A,i;
+	A=1;
+	for(i=2;i<=number;i++)
+	{
+	A=A*i;	
+	}
 		
-	return A;
+return A;
 }
 
 // Girilen sayinin faktoriyelini bulan fonksiyonu yaziniz.
