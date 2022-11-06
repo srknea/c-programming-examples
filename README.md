@@ -5,3 +5,7 @@
 # Strings
 
 [Write the code of the program that changes the letters of the written word alphabetically.](Strings/alphabet.c)
+
+# Arrays
+
+[Write the code of a programme that puts even numbers at the beginning and odd numbers at the end of an array without using any other array.](Arrays/evenAndOdd.c)
