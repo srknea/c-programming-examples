@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
+//Random Number Generator
 int main(){
 	
 	int dizi[10][10];
