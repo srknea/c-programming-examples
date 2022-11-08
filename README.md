@@ -14,4 +14,6 @@
 
 [Write the code of a programme that puts even numbers at the beginning and odd numbers at the end of an array without using any other array.](Arrays/evenAndOdd.c)
 
+# Pointers
 
+[Finding the number of digits in the string](Pointers/countNumbers.c)
