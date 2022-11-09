@@ -2,6 +2,8 @@
 
 [Random Number Generator](randomNumber.c)
 
+[Calculate the area of a circle with given radius. ](circleArea.c)
+
 # Functions
 
 [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
