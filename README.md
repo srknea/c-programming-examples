@@ -6,6 +6,8 @@
 
 3- [Determine and output whether number N is even or odd.](evenOrOdd.c)
 
+4- [Print all natural numbers in reverse (from n to 1)](reverseNatural.c)
+
 # Functions
 
 1- [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
