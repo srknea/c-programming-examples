@@ -1,27 +1,29 @@
 # General Examples
 
-[Random Number Generator](randomNumber.c)
+1-[Random Number Generator](randomNumber.c)
 
-[Calculate the area of a circle with given radius. ](circleArea.c)
+2-[Calculate the area of a circle with given radius. ](circleArea.c)
 
-[Determine and output whether number N is even or odd.](evenOrOdd.c)
+3-[Determine and output whether number N is even or odd.](evenOrOdd.c)
 
 # Functions
 
-[Write the function that finds the factorial of the entered number.](Functions/factorial.c)
+1-[Write the function that finds the factorial of the entered number.](Functions/factorial.c)
 
 # Strings
 
-[Write the code of the program that changes the letters of the written word alphabetically.](Strings/alphabet.c)
+1-[Write the code of the program that changes the letters of the written word alphabetically.](Strings/alphabet.c)
 
 # Arrays
 
-[Write the code of a programme that puts even numbers at the beginning and odd numbers at the end of an array without using any other array.](Arrays/evenAndOdd.c)
+1-[Write the code of a programme that puts even numbers at the beginning and odd numbers at the end of an array without using any other array.](Arrays/evenAndOdd.c)
 
-[Print or display upper triangular matrix.](Arrays/triangularMatrix.c)
+2-[Print or display upper triangular matrix.](Arrays/triangularMatrix.c)
 
-[Find sum of each row and column of a matrix. ](Arrays/sumRowAndColumn.c)
+3-[Find sum of each row and column of a matrix.](Arrays/sumRowAndColumn.c)
+
+4-[Print all unique elements in the array.](Arrays/uniqueElements.c)
 
 # Pointers
 
-[Finding the number of digits in the string](Pointers/countNumbers.c)
+1-[Finding the number of digits in the string](Pointers/countNumbers.c)
