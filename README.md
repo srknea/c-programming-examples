@@ -4,6 +4,8 @@
 
 [Calculate the area of a circle with given radius. ](circleArea.c)
 
+[Determine and output whether number N is even or odd.](evenOrOdd.c)
+
 # Functions
 
 [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
