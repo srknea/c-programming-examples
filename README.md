@@ -18,6 +18,8 @@
 
 [Write the code of a programme that puts even numbers at the beginning and odd numbers at the end of an array without using any other array.](Arrays/evenAndOdd.c)
 
+[Print or display upper triangular matrix.](Arrays/triangularMatrix.c)
+
 # Pointers
 
 [Finding the number of digits in the string](Pointers/countNumbers.c)
