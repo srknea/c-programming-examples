@@ -20,6 +20,8 @@
 
 [Print or display upper triangular matrix.](Arrays/triangularMatrix.c)
 
+[Find sum of each row and column of a matrix. ](Arrays/sumRowAndColumn.c)
+
 # Pointers
 
 [Finding the number of digits in the string](Pointers/countNumbers.c)
