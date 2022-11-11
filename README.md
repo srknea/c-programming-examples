@@ -30,6 +30,8 @@
 
 4- [Print all unique elements in the array.](Arrays/uniqueElements.c)
 
+5- [Delete an element from an array at specified position.](Arrays/deleteElement.c)
+
 # Pointers
 
 1- [Finding the number of digits in the string](Pointers/countNumbers.c)
