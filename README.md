@@ -1,16 +1,16 @@
 # General Examples
 
-1- [Random Number Generator](randomNumber.c)
+1- [Random Number Generator](General/randomNumber.c)
 
-2- [Calculate the area of a circle with given radius. ](circleArea.c)
+2- [Calculate the area of a circle with given radius.](General/circleArea.c)
 
-3- [Determine and output whether number N is even or odd.](evenOrOdd.c)
+3- [Determine and output whether number N is even or odd.](General/evenOrOdd.c)
 
-4- [Print all natural numbers in reverse (from n to 1)](reverseNatural.c)
+4- [Print all natural numbers in reverse (from n to 1)](General/reverseNatural.c)
 
-5- [Design an algorithm which generates even numbers between 1000 and 2000 and then prints them in the standard output. It should also print total sum.](reverseNatural.c)
+5- [Design an algorithm which generates even numbers between 1000 and 2000 and then prints them in the standard output. It should also print total sum.](General/reverseNatural.c)
 
-6- [Write the program in C language that calculates the sum of two numbers entered from the keyboard and prints it on the screen.](sumTwoNumbers.c)
+6- [Write the program in C language that calculates the sum of two numbers entered from the keyboard and prints it on the screen.](General/sumTwoNumbers.c)
 
 # Functions
 
