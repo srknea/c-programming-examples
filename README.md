@@ -39,3 +39,8 @@
 # Pointers
 
 1- [Finding the number of digits in the string](Pointers/countNumbers.c)
+
+# Sorting Algorithm
+
+1- [Write a C program to sort a given array using Insertion Sort.](Sorting%20Algorithm/insertionSort.c)
+
