@@ -12,6 +12,8 @@
 
 6- [Write the program in C language that calculates the sum of two numbers entered from the keyboard and prints it on the screen.](General/sumTwoNumbers.c)
 
+7- [Design an algorithm with a natural number, n, as its input which calculates the following formula and writes the result in the standard output: S = ½ + ¼ + … +1/n](General/calculateFormula.c)
+
 # Functions
 
 1- [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
