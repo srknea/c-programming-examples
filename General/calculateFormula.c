@@ -17,10 +17,8 @@ int main(){
 	{
 	
 	toplam+=1/i;
-}
+	}
 	printf("Toplam: %f",toplam);	
-	
-	
-		
+			
 return 0;	
 }
