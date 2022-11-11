@@ -34,6 +34,8 @@
 
 5- [Delete an element from an array at specified position.](Arrays/deleteElement.c)
 
+6- [Put Even & Odd Elements of an Array in 2 Separate Arrays ](Arrays/separateEvenOdd.c)
+
 # Pointers
 
 1- [Finding the number of digits in the string](Pointers/countNumbers.c)
