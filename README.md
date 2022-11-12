@@ -26,6 +26,9 @@
 
 1- [Write the code of the program that changes the letters of the written word alphabetically.](Strings/alphabet.c)
 
+1- [C Program to Remove all Characters in a String Except Alphabet ](Strings/remove.c)
+
+
 # Arrays
 
 1- [Write the code of a programme that puts even numbers at the beginning and odd numbers at the end of an array without using any other array.](Arrays/evenAndOdd.c)
