@@ -14,7 +14,9 @@
 
 7- [Design an algorithm with a natural number, n, as its input which calculates the following formula and writes the result in the standard output: S = ½ + ¼ + … +1/n](General/calculateFormula.c)
 
-7- [Write an algorithm and draw a flowchart that will read the two sides of a rectangle and calculate its area and perimeter.](General/rectangle.c)
+8- [Write an algorithm and draw a flowchart that will read the two sides of a rectangle and calculate its area and perimeter.](General/rectangle.c)
+
+9- [Print the Floyd's Triangle.](General/floydTriangle.c)
 
 # Functions
 
