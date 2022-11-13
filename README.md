@@ -51,3 +51,6 @@
 
 1- [Write a C program to sort a given array using Insertion Sort.](Sorting%20Algorithm/insertionSort.c)
 
+# Dynamic Memory
+
+1- [Write a C program that counts words in a given text or sentence using dynamic memory.](Dynamic%20Memory/countWords.c)
