@@ -26,8 +26,9 @@
 
 1- [Write the code of the program that changes the letters of the written word alphabetically.](Strings/alphabet.c)
 
-1- [C Program to Remove all Characters in a String Except Alphabet ](Strings/remove.c)
+2- [C Program to Remove all Characters in a String Except Alphabet ](Strings/remove.c)
 
+3- [C Program to Concatenate Two Strings](Strings/concatenate.c)
 
 # Arrays
 
