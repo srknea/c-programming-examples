@@ -18,6 +18,9 @@
 
 9- [Print the Floyd's Triangle.](General/floydTriangle.c)
 
+9- [Write all even numbers between 1 and 20 except 14.](General/evenNumbers.c)
+
+
 # Functions
 
 1- [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
