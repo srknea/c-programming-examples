@@ -60,6 +60,8 @@
 
 2- [Write a C program to sort a given array using Bubble Sort.](Sorting%20Algorithm/bubbleSort.c)
 
+3- [Write a C program to sort a given array using Selection Sort.](Sorting%20Algorithm/selectionSort.c)
+
 # Dynamic Memory
 
 1- [Write a C program that counts words in a given text or sentence using dynamic memory.](Dynamic%20Memory/countWords.c)
