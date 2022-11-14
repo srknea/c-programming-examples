@@ -18,9 +18,11 @@
 
 9- [Print the Floyd's Triangle.](General/floydTriangle.c)
 
-9- [Write all even numbers between 1 and 20 except 14.](General/evenNumbers.c)
+10- [Write all even numbers between 1 and 20 except 14.](General/evenNumbers.c)
 
-9- [A programme that returns the even numbers between two entered numbers and the sum of these numbers.](General/evenSum.c)
+11- [A programme that returns the even numbers between two entered numbers and the sum of these numbers.](General/evenSum.c)
+
+12- [Write the function to print the maximum of three numbers.](General/maxNumber.c)
 
 # Functions
 
