@@ -28,6 +28,8 @@
 
 14- [Write a C program to find the smallest of three numbers A, B, and C given](General/smallest.c)
 
+15- [Write a C program for computing factorial N (N!).](General/smallest.c)
+
 # Functions
 
 1- [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
