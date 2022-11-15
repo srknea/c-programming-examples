@@ -24,6 +24,8 @@
 
 12- [Write the function to print the maximum of three numbers.](General/maxNumber.c)
 
+13- [Two numbers stored in integer variables A and B are entered from the keyboard without using a third variable. Write a programme in C language that writes the values of variables A and B to the screen by replacing them between themselves.](General/replace.c)
+
 # Functions
 
 1- [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
