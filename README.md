@@ -52,6 +52,8 @@
 
 6- [Put Even & Odd Elements of an Array in 2 Separate Arrays ](Arrays/separateEvenOdd.c)
 
+7- [Write the C code that sums two matrices with the same number of rows and columns. Matrix values will be entered from the keyboard.](Arrays/sumMatrices.c)
+
 # Pointers
 
 1- [Finding the number of digits in the string](Pointers/countNumbers.c)
