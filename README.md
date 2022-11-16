@@ -30,6 +30,8 @@
 
 15- [Write a C program for computing factorial N (N!).](General/smallest.c)
 
+16- [The code of the program that finds whether the entered number is a prime number or not.](General/primeNumber.c)
+
 # Functions
 
 1- [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
