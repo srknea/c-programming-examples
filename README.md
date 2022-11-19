@@ -32,6 +32,8 @@
 
 16- [The code of the program that finds whether the entered number is a prime number or not.](General/primeNumber.c)
 
+17- [Determine whether a temperature is below or above the frezzing point.](General/celsius.c)
+
 # Functions
 
 1- [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
