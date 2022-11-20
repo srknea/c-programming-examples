@@ -34,6 +34,8 @@
 
 17- [Determine whether a temperature is below or above the frezzing point.](General/celsius.c)
 
+18- [Code that calculates the perimeter and area of the square whose side length is entered.](General/perimeter.c)
+
 # Functions
 
 1- [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
