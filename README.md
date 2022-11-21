@@ -38,6 +38,9 @@
 
 19- [Find the sum of the first 50 natural numbers.](General/sum.c)
 
+
+19- [Find sum of all prime numbers between 1 to n. ](General/primeSum.c)
+
 # Functions
 
 1- [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
