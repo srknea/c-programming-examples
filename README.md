@@ -38,8 +38,7 @@
 
 19- [Find the sum of the first 50 natural numbers.](General/sum.c)
 
-
-19- [Find sum of all prime numbers between 1 to n. ](General/primeSum.c)
+20- [Find sum of all prime numbers between 1 to n. ](General/primeSum.c)
 
 # Functions
 
