@@ -36,6 +36,8 @@
 
 18- [Code that calculates the perimeter and area of the square whose side length is entered.](General/perimeter.c)
 
+19- [Find the sum of the first 50 natural numbers.](General/sum.c)
+
 # Functions
 
 1- [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
