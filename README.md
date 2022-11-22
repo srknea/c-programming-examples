@@ -40,6 +40,8 @@
 
 20- [Find sum of all prime numbers between 1 to n. ](General/primeSum.c)
 
+21- [Find the largest of three numbers A, B, and C. ](General/largestNumber.c)
+
 # Functions
 
 1- [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
