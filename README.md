@@ -42,6 +42,8 @@
 
 21- [Find the largest of three numbers A, B, and C. ](General/largestNumber.c)
 
+22- [Write a C program to check whether a given number from keyboard is Palindrome number or not](General/palindrome.c)
+
 # Functions
 
 1- [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
