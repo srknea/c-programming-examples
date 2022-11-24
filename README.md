@@ -44,6 +44,9 @@
 
 22- [Write a C program to check whether a given number from keyboard is Palindrome number or not](General/palindrome.c)
 
+23- [Write C code to find the number and sum of all integer between 100 and 200 which are divisible by 9.](General/divisible.c)
+
+
 # Functions
 
 1- [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
