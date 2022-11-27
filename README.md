@@ -48,6 +48,8 @@
 
 24- [C Program to Count the Number of Vowels, Consonants and so on](General/count.c)
 
+25- [Write C code to swap first and last digits of a number.](General/swapDigits.c)
+
 # Functions
 
 1- [Write the function that finds the factorial of the entered number.](Functions/factorial.c)
