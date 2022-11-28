@@ -78,6 +78,8 @@
 
 7- [Write the C code that sums two matrices with the same number of rows and columns. Matrix values will be entered from the keyboard.](Arrays/sumMatrices.c)
 
+8- [Insert an Element in a Specified Position in a given Array.](Arrays/insertElement.c)
+
 # Pointers
 
 1- [Finding the number of digits in the string](Pointers/countNumbers.c)
