@@ -95,3 +95,5 @@
 # Dynamic Memory
 
 1- [Write a C program that counts words in a given text or sentence using dynamic memory.](Dynamic%20Memory/countWords.c)
+
+2- [A programme that reads a text expression entered from the keyboard and gives the number of letters in this text write using dynamic memory allocation.](Dynamic%20Memory/numberOfLetters.c)
