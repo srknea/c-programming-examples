@@ -80,6 +80,8 @@
 
 8- [Insert an Element in a Specified Position in a given Array.](Arrays/insertElement.c)
 
+9- [Put Even & Odd Elements of an Array in 2 Separate Arrays](Arrays/separate.c)
+
 # Pointers
 
 1- [Finding the number of digits in the string](Pointers/countNumbers.c)
